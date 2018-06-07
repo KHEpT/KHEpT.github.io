@@ -1,0 +1,38 @@
+body {
+	background-color: black;
+}
+img {
+	max-width: 100%;
+	height: auto;
+}
+
+.content {
+}
+
+.content_1 {
+}
+
+
+
+
+
+
+@media (min-width: 1000px) {
+img {
+	max-width: 100%;
+	height: auto;
+}
+
+	.content {
+	}
+
+.content_1 {
+			display: flex;
+  		flex-wrap: wrap;
+}
+	.content_1 img {
+		width: 50%;
+		height: 100%;
+	}
+
+}

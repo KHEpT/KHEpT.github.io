@@ -1,0 +1,28 @@
+body {
+	background-color: black;
+}
+img {
+	max-width: 100%;
+	height: auto;
+}
+
+.title {
+}
+.title_child {
+}
+
+
+
+
+
+@media (min-width: 700px) {
+img {
+	max-width: 100%;
+	height: auto;
+}
+
+	.title {
+	}
+	.title_child {
+	}
+}
