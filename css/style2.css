@@ -27,8 +27,9 @@ img {
 	}
 
 .content_1 {
-			display: flex;
+		display: flex;
   		flex-wrap: wrap;
+  		padding-bottom: 3px;
 }
 	.content_1 img {
 		width: 50%;
