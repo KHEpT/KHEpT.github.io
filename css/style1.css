@@ -22,7 +22,6 @@ img {
 .title {
 	padding-top: 3%;
 }
-
 	.title_child {
 		display: flex;
 		flex-wrap: column;
