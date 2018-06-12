@@ -6,26 +6,47 @@ img {
 	height: auto;
 }
 
+
+.title	{
+}
+.title_child {
+	display: flex;
+	flex-wrap: column;
+	justify-content: center;
+}
+	.title_child img {
+		max-width: 100%;
+		height: auto;
+	}
+
 .content {
 }
-
 .content_1 {
 	padding-bottom: 2px;
 }
 
 
 
-
-
-
 @media (min-width: 1000px) {
+
 img {
 	max-width: 100%;
 	height: auto;
 }
 
-	.content {
+
+.title	{		
+}
+	.title_child {
+		display: flex;
+		flex-wrap: column;
+		justify-content: center;
 	}
+	.title_child img {
+	}
+
+.content {
+}
 
 .content_1 {
 		display: flex;

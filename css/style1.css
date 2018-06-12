@@ -14,8 +14,8 @@ img {
 
 
 
-
 @media (min-width: 700px) {
+
 img {
 }
 
@@ -31,6 +31,7 @@ img {
 			max-width: 100%;
 			height: auto;
 		}
+		
 	.title_child1 {
 	}
 		.title_child1 img{
