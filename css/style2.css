@@ -30,6 +30,7 @@ img {
 @media (min-width: 1000px) {
 
 img {
+	overflow: hidden;
 	max-width: 100%;
 	height: auto;
 }
